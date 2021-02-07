@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<colegio>
+ <estudiante id="1">
+ <nombre>Alexis Lopez</nombre>
+ <username>Goku_330</username>
+ <password>SiSaleIPC</password>
+ </estudiante>
+ <estudiante id="2">
+ <nombre>Aquiles Bailo</nombre>
+ <username>ElsaPito</username>
+ <password>4123412</password>
+ </estudiante>
+<estudiante id="3">
+ <nombre>Jorge nitales</nombre>
+ <username>ElFetido</username>
+ <password>Notengoamigos</password>
+ </estudiante>
+</colegio>
